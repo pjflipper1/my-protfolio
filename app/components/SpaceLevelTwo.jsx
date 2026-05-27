@@ -78,12 +78,12 @@ export default function SpaceLevelTwo({ children }) {
                 href="https://docs.google.com/document/d/e/2PACX-1vTz7S-2knIXe6ZfQH3mOSa2Mu2XzNvMW8iP8toLkI35ekEI2oLO7Uls3yH4j7jFvmCXtK-e0NTA_Dv0/pub"
                 className="font-semibold text-zinc-900 underline-offset-4 hover:underline"
               >
-                The Lanham Act Needs To Amend Their Trademark Policy Regulate Deef Fake Content
+                The Lanham Act Needs To Amend Their Trademark Policy Regulate Deep Fake Content
               </Link>
             </li>
           </ul>
           <p className="mt-3 text-sm leading-relaxed text-zinc-600">
-            In my third year of college I took a business ethics and law course when I wrote a term paper on the impact of the Lanham Act on the regulation of fake content on the internet.
+            In my third year of college I took a business ethics and law course where I wrote a term paper on the regulation of deep fake content under the Lanham Act.
           </p>
 
           <ul className="mt-2 space-y-2">
