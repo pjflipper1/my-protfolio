@@ -9,7 +9,7 @@ export default function SpaceLevelTwo({ children }) {
       {children ?? (
         <div className="w-full min-w-0 max-w-full">
           <h2 className="mt-2 text-xl font-extrabold text-zinc-900 md:text-2xl">
-            Vibe Coding and Design Projects
+            Design and Software Development Projects
           </h2>
           
           <ul className="mt-2 space-y-2">
